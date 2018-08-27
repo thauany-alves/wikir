@@ -19,12 +19,8 @@ return [
     |
     | A Google API key to link Googlmapper to Google's API.
     |
-    AIzaSyC-eJS6_AQij4bRtIVHcVJQaWleumQib90
-    AIzaSyBfKpznT4xc1AIVDKSygBkQlBmZRWWA3qU
-    AIzaSyBl0EDf4XKhuUYmFytpwYXiAbHfvQdSpQE
-    AIzaSyALOBkddMOPexRwjn5nXlJV3gGxO7359oY
-    'key' => env('GOOGLE_API_KEY', 'AIzaSyB24nqYECZ4coub7PSr1r3mlQBtgPhK2fQ'),*/
-    'key' => env('GOOGLE_API_KEY', 'AIzaSyB24nqYECZ4coub7PSr1r3mlQBtgPhK2fQ'),
+    */
+    'key' => env('GOOGLE_API_KEY', 'Chave aki'),
 
     /*
     |--------------------------------------------------------------------------
