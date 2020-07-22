@@ -30,7 +30,7 @@ Crowdmapping e sistemas colaborativos.
 - CSS
 - Boostrap
 
-## Saiba mais consultando meu trabalho de Conclusão de Curso
+## Saiba mais consultando o Trabalho de Conclusão de Curso
 Projeto apresentado no Trabalho de Conclusão do curso de Análise e Desenvolvimento de Sistemas no IFBA- IRECÊ.
 - [Trabalho de conclusão de curso](https://drive.google.com/file/d/1VMlyZEYjls75uPevUeyxRTVd_Bn6Fv6e/view?usp=sharing)
 
