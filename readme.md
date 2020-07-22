@@ -1,8 +1,5 @@
 # Wikir 
-## Objetivo
 
-- Aplicação web para mapeamento de problemas na infraestruturas de cidades por meio da colaboração de moradores, como por exemplo o mapeamento de buracos em ruas.
-- O mapeamento de desses problemas pode ser utilizado por prefeituras para identificarem e melhorarem os serviços prestados á população.
 
 ## Problema 
 Muitas cidades apresentam problemas em suas infraestruturas devido urbanização
@@ -15,6 +12,10 @@ a distância entre habitantes e gestores urbanos, embasando-se na infraestrutura
 oferecida pela WEB e mediante estudo de conceitos como Crowdsourcing,
 Crowdmapping e sistemas colaborativos.
 
+## Objetivo
+
+- Aplicação web para mapeamento de problemas na infraestruturas de cidades por meio da colaboração de moradores, como por exemplo o mapeamento de buracos em ruas.
+- O mapeamento de desses problemas pode ser utilizado por prefeituras para identificarem e melhorarem os serviços prestados á população.
 
 
 ## Exemplo
